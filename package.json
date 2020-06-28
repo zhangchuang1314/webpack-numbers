@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
      "url": "https://github.com/zhangchuang1314/webpack-numbers.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/zhangchuang1314/webpack-numbers/issues"
+  },
+  "homepage": "https://github.com/zhangchuang1314/webpack-numbers#readme"
 }
